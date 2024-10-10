@@ -17,7 +17,7 @@ Open a terminal (or command prompt) and run the following command to clone the p
 
 bash
 
-git clone https://github.com/yourusername/calorie-quest.git
+git clone h[ttps://github.com/yourusername/calorie-quest.git](https://github.com/joelkjoseph/Calorie-Quest)
 
 Step 2: Open the Project in Android Studio
 
